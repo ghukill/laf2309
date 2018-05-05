@@ -1,5 +1,6 @@
-# laf2309
+# Lost and Found, 2309
 
-A time capsule was dropped into a reverse time whirlpool in the year 2309, and here is what we found...
+We look forward, to look backwards, at the year 2309.
 
-  * [Document 1](d1.md)
+* [an unfinished, short story from an aspiring author](short_story_1.md)
+
